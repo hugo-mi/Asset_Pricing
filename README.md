@@ -1,2 +1,2 @@
 # Asset_Pricing
-FTD 2023 - Asset Pricing Assignment
+FTD 2023 - Asset Pricing Assignments
